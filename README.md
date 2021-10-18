@@ -1,4 +1,4 @@
-<img src='imgs/last-version-overal-bnmvc2021.jpg' align="center" width=800>
+<img src='imgs/last-version-overal-bnmvc2021.jpg' align="center" display="block" margin-left="auto" margin-right="auto" width=800>
 
 <br><br><br>
 
