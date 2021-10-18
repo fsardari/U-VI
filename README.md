@@ -1,4 +1,5 @@
 <img src='imgs/last-version-overal-bnmvc2021.jpg' align="right" width=384>
+![teaser](imgs/last-version-overal-bnmvc2021.jpg "Method pipeline")
 
 <br><br><br>
 
