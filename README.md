@@ -24,7 +24,7 @@ We obtain PyTorch implementations for 'Unsupervised View-Invariant Human Posture
   
          year={2021}}
 ```
-@misc{sardari2021unsupervised,
+@article{sardari2021unsupervised,
       title={Unsupervised View-Invariant Human Posture Representation}, 
       author={Sardari, Faegheh and Ommer, Bj{\"o}rn and Mirmehdi, Majid},
       year={2021},
