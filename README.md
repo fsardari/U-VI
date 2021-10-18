@@ -1,4 +1,5 @@
-# PyTorch implementations for "Unsupervised View-Invariant Human Posture Representation"
+# PyTorch implementations for 
+# "Unsupervised View-Invariant Human Posture Representation"
 
 <br><br>
 <img src='imgs/last-version-overal-bnmvc2021 (2).png' width=900>
