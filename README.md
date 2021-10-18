@@ -2,7 +2,7 @@
 
 <br><br><br>
 
-We obtain PyTorch implementations for 'Unsupervised View-Invariant Human Posture Representation'.
+PyTorch implementations for "Unsupervised View-Invariant Human Posture Representation"
 
 [Project Page]() |  [Arxiv](https://arxiv.org/pdf/2109.08730.pdf)
 
