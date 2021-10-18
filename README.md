@@ -6,7 +6,7 @@ We obtain PyTorch implementations for 'Unsupervised View-Invariant Human Posture
 
 [Project Page]() |  [Arxiv](https://arxiv.org/pdf/2109.08730.pdf)
 
-## Prerequisites
+## Requirements
 - Linux 
 - Python 3
 - CPU or NVIDIA GPU + CUDA CuDNN
@@ -14,15 +14,6 @@ We obtain PyTorch implementations for 'Unsupervised View-Invariant Human Posture
 
 ## BibTex
 
-@article{sardari2021unsupervised,
-
-        title={Unsupervised View-Invariant Human Posture Representation},
-  
-        author={Sardari, Faegheh and Ommer, Bj{\"o}rn and Mirmehdi, Majid},
-  
-        journal={arXiv preprint arXiv:2109.08730},
-  
-         year={2021}}
 ```
 @article{sardari2021unsupervised,
       title={Unsupervised View-Invariant Human Posture Representation}, 
